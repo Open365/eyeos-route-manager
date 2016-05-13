@@ -5,7 +5,7 @@
   "description": "Manages routes for a restify server",
   "main": "./src/eyeos-route-manager.js",
   "dependencies": {
-    "eyeos-logger": "*"
+    "log2out": "*"
   },
   "devDependencies": {
     "eyeos-gruntfile": "*",

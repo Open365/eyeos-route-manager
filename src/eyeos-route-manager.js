@@ -17,7 +17,7 @@
     along with this program. If not, see <http://www.gnu.org/licenses/>.
 */
 
-var logger = require('eyeos-logger');
+var logger = require('log2out').getLogger('Eyeos-Route-Manager');
 
 function RouteManager(server) {
 	this.server = server;
