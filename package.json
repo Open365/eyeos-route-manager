@@ -1,6 +1,6 @@
 {
   "name": "eyeos-route-manager",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "author": "eyeOS",
   "description": "Manages routes for a restify server",
   "main": "./src/eyeos-route-manager.js",
